@@ -1,6 +1,6 @@
 # MoveWithMii - Privacy Policy
 
-**Last Updated: [Insérez la date d'aujourd'hui]**
+**Last Updated: 28/05/2025**
 
 ## Overview
 
