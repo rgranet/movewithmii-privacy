@@ -66,7 +66,7 @@ You have complete control over your data:
 ## 📧 Contact
 
 For any questions about this policy:
-- **Email**: support@movewithmii.com
+- **Email**: support@withmii.com
 - **App**: Use the "Contact" feature in app settings
 
 ## 🔄 Updates
